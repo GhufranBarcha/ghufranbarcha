@@ -56,11 +56,9 @@
 
 <!-- Profile View Counters & WakaTime Badge -->
 <div align="center">
-  <a href="https://wakatime.com/@8b0ef192-7feb-446f-a3d8-12dae5a58378">
-    <img src="https://wakatime.com/badge/user/8b0ef192-7feb-446f-a3d8-12dae5a58378.svg" alt="WakaTime Badge"/>
-  </a>
+
   <img src="https://komarev.com/ghpvc/?username=GhufranBarcha" alt="Profile Views"/>
-  <img src="https://hit.yhype.me/github/profile?account_id=123550860" alt="Profile Hits"/>
+
 </div>
 
 
@@ -95,7 +93,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40"/>
   </a> -->
 </div>
- <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+
             
 
 <div align="center">
