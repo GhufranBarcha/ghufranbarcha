@@ -38,8 +38,8 @@
 
 <div align="justify">
   <p> 
-    As an AI Engineer, I'm dedicated to <b>empowering businesses with AI-driven solutions</b>. 
-    With expertise in machine learning, deep learning, and MLOps, I specialize in building 
+    As an AI / ML Engineer, I'm dedicated to <b>empowering businesses with AI-driven solutions</b>. 
+    With expertise in machine learning, deep learning, DevOps and MLOps, I specialize in building 
     <b>scalable AI applications</b>—from <b>LLM-powered chatbots - Agentic AI</b> to 
     <b>real-time computer vision systems</b>. By integrating AI with cloud platforms, DevOps, and 
     automation, I help businesses <b>unlock insights, streamline operations, and enhance 
