@@ -88,5 +88,6 @@
             
 
 <div align="center">
+<h3> Profile Counter</h3>
   <img src="https://profile-counter.glitch.me/ghufranbarcha/count.svg?"  />
 </div>
