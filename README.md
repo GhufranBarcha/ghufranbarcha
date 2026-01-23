@@ -54,9 +54,13 @@
 
 ### 📫 **Connect With Me**  
 <div align="center">
-  <a href="mailto:Gufoor.barcha2906@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
+  <p>
+    <strong>Email:</strong>
+    <a href="mailto:Gufoor.barcha2906@gmail.com">
+      Gufoor.barcha2906@gmail.com
+    </a>
+  </p>
+
   <a href="https://www.linkedin.com/in/ghufranbarcha">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
