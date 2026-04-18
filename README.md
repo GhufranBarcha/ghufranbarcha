@@ -51,19 +51,21 @@
 </div>
 
 
-
+  <!-- <p>
 ### 📫 **Connect With Me**  
 <div align="center">
-  <p>
+
     <strong>Email:</strong>
     <a href="mailto:Gufoor.barcha2906@gmail.com">
       Gufoor.barcha2906@gmail.com
     </a>
   </p>
 
-  <a href="https://www.linkedin.com/in/ghufranbarcha">
+
+ <a href="https://www.linkedin.com/in/ghufranbarcha">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
+  -->
   <!-- <a href="https://kaggle.com/ghufranbarcha" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/>
   </a>
